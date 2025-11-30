@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Demo](https://glasp.co/images/icons/feature_get_transcript.gif)
+
 This project implements and compares multiple text summarization approaches on YouTube video transcripts. It evaluates five different vectorization methods combined with graph-based ranking algorithms to generate extractive summaries and compares their performance using ROUGE metrics.
 
 ## Dataset
